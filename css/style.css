@@ -1,0 +1,16 @@
+h2 {
+  font-family: sans-serif;
+  color: #4C1919;
+}
+
+.list {
+  font-family: sans-serif;
+}
+
+.history {
+  font-family: serif;
+}
+
+.date {
+  font-style: italic;
+}
